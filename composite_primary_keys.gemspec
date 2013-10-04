@@ -25,6 +25,6 @@ Gem::Specification.new do |s|
   s.rubyforge_project = 'compositekeys'
 
   # Dependencies
-  s.required_ruby_version = '>= 1.9.3'
-  s.add_dependency('activerecord', '>= 4.0.0')
+  s.required_ruby_version = '>= 1.8.7'
+  s.add_dependency('activerecord', '>= 4.0.0.rc1')
 end
